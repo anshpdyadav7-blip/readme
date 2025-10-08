@@ -15,5 +15,7 @@ Threat Analysis Lab	Simulated environment for identifying and mitigating attacks
 Vulnerability Scanner Script	Custom Python tool for scanning common vulnerabilities	Python, Nmap
 CTF Writeups	Documentation of Capture the Flag challenges	Metasploit, Burp Suite
 📫 Connect With Me
-LinkedIn: linkedin.com/in/yourprofile
-Email: your.email@example.com
+LinkedIn: www.linkedin.com/in/
+ansh-yadav-79b22a388
+Van
+Email: anshpduadav7@gmail.com
