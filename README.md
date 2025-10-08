@@ -1,4 +1,4 @@
-💻 C) GitHub README / Portfolio Intro + Project Section Template
+
 👋 Hi there, I’m Ansh Yadav.
 I’m a future cybersecurity professional focused on threat analysis, network defense, and ethical hacking. My mission is to create secure digital environments and promote responsible technology use. I continuously develop my technical and analytical skills through labs, certifications, and real-world simulations.
 🔐 What I’m Working On
